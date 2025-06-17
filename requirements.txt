@@ -6,3 +6,6 @@ tensorflow
 numpy
 pillow
 fastai
+torch
+torchvision
+opencv-python-headless
