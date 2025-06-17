@@ -2,7 +2,6 @@ streamlit
 opencv-python
 streamlit-webrtc
 joblib
-tensorflow
 numpy
 pillow
 fastai
