@@ -3,7 +3,7 @@ streamlit-webrtc
 joblib
 numpy
 pillow
-fastai==2.7.12 # <--- Ubah baris ini
-torch
+fastai==2.7.12
+# torch # Hapus atau komen baris ini, biarkan fastai yang menarik dependensinya
 torchvision
 opencv-python-headless
