@@ -4,6 +4,6 @@ joblib
 numpy
 pillow
 fastai==2.7.12
-# torch # Hapus atau komen baris ini, biarkan fastai yang menarik dependensinya
+torch # Biarkan torch tanpa versi, atau torch<2.1
 torchvision
 opencv-python-headless
