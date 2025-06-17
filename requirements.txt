@@ -3,7 +3,7 @@ streamlit-webrtc
 joblib
 numpy
 pillow
-fastai
+fastai==2.7.12 # <--- Ubah baris ini
 torch
 torchvision
 opencv-python-headless
