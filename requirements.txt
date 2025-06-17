@@ -4,6 +4,6 @@ joblib
 numpy
 pillow
 fastai==2.7.12
-# torch # Pastikan baris torch ini dikomentari atau dihapus, karena fastai akan menarik dependensinya sendiri
-torchvision
+# torch <-- Hapus atau komen baris ini
+# torchvision <-- Hapus atau komen baris ini
 opencv-python-headless
